@@ -1,0 +1,8 @@
+{
+  "domain": "ciscospa",
+  "name": "Support for Cisco ATAs for VOIP systems",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["pyciscospa==0.1.4"]
+}

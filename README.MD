@@ -4,7 +4,10 @@ This is intended to be copied into your config directory for home-assistant.io
 
 ## Install
 
-Copy the sensor folder and ciscospa.py into your config directory
+Copy the contents of this repository to
+```
+<config directory>/custom_components/ciscospa
+```
 
 ## Home Assistant config
 
